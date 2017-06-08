@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\urana\onedrive\documents\visual studio 2015\projects\firstproject\firstproject\main.cpp(125): warning C4715: 'input': not all control paths return a value
+  FirstProject.vcxproj -> C:\Users\urana\OneDrive\Documents\Visual Studio 2015\Projects\FirstProject\Debug\FirstProject.exe
+  FirstProject.vcxproj -> C:\Users\urana\OneDrive\Documents\Visual Studio 2015\Projects\FirstProject\Debug\FirstProject.pdb (Partial PDB)
