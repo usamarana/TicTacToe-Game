@@ -193,7 +193,7 @@ int main() {
 		if ((inpt < 1) || (inpt > 9)) {
 			continue;
 		} else if (!allocated[inpt -1]) {
-			cout << "WTF!" << endl;
+			cout << "stop!" << endl;
 			continue;
 		}
 		allocated[inpt - 1] = false;
